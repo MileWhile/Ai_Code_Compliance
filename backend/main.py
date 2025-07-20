@@ -5,8 +5,6 @@ FastAPI RAG Backend - main.py
 A production-ready FastAPI application implementing Retrieval-Augmented Generation (RAG)
 using ChromaDB vector store and Google Generative AI.
 
-Author: Senior Python Backend Developer
-Date: July 2025
 """
 
 import os
