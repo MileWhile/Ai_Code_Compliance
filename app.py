@@ -5,8 +5,6 @@ AI Compliance Co-Pilot - app.py
 A clean, modern Streamlit web application for navigating FSSAI regulations.
 Provides an intelligent assistant interface for compliance questions.
 
-Author: Python UI Developer
-Date: July 2025
 """
 
 import streamlit as st
