@@ -6,7 +6,6 @@ A production-ready FastAPI application implementing Retrieval-Augmented Generati
 using ChromaDB vector store and Google Generative AI.
 
 """
-
 import os
 import sys
 import logging
