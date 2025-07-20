@@ -5,8 +5,6 @@ Document Processing Pipeline - ingest.py
 A production-ready script for ingesting documents into a ChromaDB vector store
 using LangChain and Google Generative AI embeddings.
 
-Author: Lead Python Engineer
-Date: July 2025
 """
 
 import os
